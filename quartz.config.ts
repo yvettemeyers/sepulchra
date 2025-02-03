@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Hack Nerd Font",
+        header: "Roboto Mono",
         body: "Source Code Pro",
-        code: "ui-monospace",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {

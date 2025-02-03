@@ -1,0 +1,1 @@
+The continent of Sepulchra was formed after [[The Great Melting]] caused massive oceans to cover much of the ancient world prior to recorded history. Civilization began along the Jawbone River and eventually grew into several major polities that have currently controlled the land for the past hundred years.

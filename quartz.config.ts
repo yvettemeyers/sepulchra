@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      null,
+      
     },
     locale: "en-US",
     baseUrl: "yvettemeyers.github.io/sepulchra",

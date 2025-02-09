@@ -5,7 +5,7 @@ The party began as members of the [[Divyani Mercenary Company]] working under [[
 - [[Cricket]] seeks new income to send to their spiritual mentor, the mysterious head of the [[Church of the Bibble]].
 - [[Lucario]] is seeking refuge after the destruction of his hometown left him without a place to call home.
 - [[Beebo]] is seeking __
-- [[Amara's character]] is traveling across the continent in search of the person who dreamed them into existence.
+- [[Kalhia]] is traveling across the continent in search of the person who dreamed them into existence.
 
 The party traveled through [[The Red Wastes]] in a camelphant caravan with two corso carriages to accompany them before coming across a large [[Corrupted Dreamsalt|corrupted dreamsalt]] canyon, where they were ambushed by warriors in [[Oristje|Oristjen]] rebel garb.
 

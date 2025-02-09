@@ -1,0 +1,1 @@
+Vern Wick is a captain within the [[Divyani Mercenary Company]]. He is a Jotun man with many nicks and scars in his stone body and armor from countless previous battles. Despite his age, he is extremely capable in battle.

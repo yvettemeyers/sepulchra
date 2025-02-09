@@ -1,0 +1,1 @@
+The Lapis Lazarus is a grand black obelisk jutting from the source of the Morsus River within the city of Morsus in [[Hyperium]]. It is built of an unknown, near-unbreakable substance and has existed as long as the sapient peoples have recorded history. The only known instance of the Lapis Lazarus being disturbed is the event known as [[1. The Syzygy|The Syzygy]].

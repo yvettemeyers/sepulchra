@@ -1,0 +1,1 @@
+Dreamsalt is a powerful crystalline substance which is used to create Dreamglass, which can contain magical spells to keep them ongoing without requiring the focus of a spellcaster. This immense power directly led to the rise of the new political superpower [[Tenoxchi]] to directly compete with their previously unmatched rivals in [[Hyperium]].

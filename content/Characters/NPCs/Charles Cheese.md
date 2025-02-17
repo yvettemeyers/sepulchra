@@ -1,0 +1,1 @@
+Charles Cheese is a gang leader in the small town of Orissi in [[The Red Wastes]].

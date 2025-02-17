@@ -1,0 +1,1 @@
+Mankin are similar to large ape or monkey people. They are about as tall as humans with about as much variance in height depending on their subspecies.

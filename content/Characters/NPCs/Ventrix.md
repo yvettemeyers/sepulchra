@@ -1,0 +1,1 @@
+It is probable that Ventrix is the head of whatever [[Oristje|Oristjen]] rebel gang stole the cargo from the party's camelphant caravan. He is a tall [[Jotun]] man, so he is not who was smelled by [[Sable]], but one of his goons was a Mankin and could be a contender.

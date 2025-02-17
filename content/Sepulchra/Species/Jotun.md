@@ -1,0 +1,1 @@
+Jotun resemble large collections of obsidian or other stones held together with magic, similar in appearance to the Pokemon Regirock. They do not need to drink water, but still eat a diet of minerals and sleep like normal. They are usually taller, between 5ft and 8ft tall on average.

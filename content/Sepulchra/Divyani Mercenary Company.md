@@ -1,1 +1,1 @@
-info
+The Divyani Mercenary Company has a long history within the kingdom of Hyperium, often being hired out to perform administrative duties such as escorting ambassadors as well as clandestine military activities that the country doesn't want known as officially sanctioned. They've worked for the other Sepulchran kingdoms as well, but Hyperium has been their biggest client by far.
